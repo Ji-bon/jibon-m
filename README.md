@@ -22,7 +22,7 @@
 * `apt update`
 * `apt install git curl php openssh -y`
 * `git clone git://github.com/Ji-bon/jibon-m
-* `cd zphisher`
+* `cd jibon-mh`
 #### > Run : `bash jibon-m.sh`
 
 ## Single Command :
